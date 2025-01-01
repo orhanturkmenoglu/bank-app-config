@@ -5,7 +5,7 @@ build:
 accounts:
   message: "Welcome to Accounts API production - PROD"
   contactDetails:
-    name: "John Doe - Product Owner"
+    name: "Orhan TÜRKMENOĞLU - Product Owner"
     email: "{cipher}0b180511b3a8633e02bb7288f6f251f4a6ec5e73447890389c3e22a2a9a9fc3a82deecc20653066e52e52c1bdb581261"
   onCallSupport:
     - "(777) 555-5555"
